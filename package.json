@@ -1,0 +1,25 @@
+{
+  "name": "node-perso",
+  "version": "1.0.0",
+  "description": "little project to learn nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuuTimmy/Game.git"
+  },
+  "author": "Timmy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuuTimmy/Game/issues"
+  },
+  "homepage": "https://github.com/LuuTimmy/Game#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
